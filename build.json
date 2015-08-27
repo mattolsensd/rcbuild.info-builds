@@ -1,18 +1,22 @@
-{"version": 1,
- "config": {
-    "frame" : "",
-    "arm" : "",
-    "fc" : "",
-    "osd" : "",
-    "receiver" : "",
-    "flightcam" : "",
-    "hqcam" : "",
-    "esc" : "",
-    "motor" : "",
-    "videotx" : "",
-    "blackbox" : "",
-    "voltagereg" : "",
-    "prop" : [],
-    "battery" : []
-  }
+{
+  "config": {
+    "frame": "Lumenier/QAV250-Mini-FPV-Quadcopter---Carbon-Fiber-Edition",
+    "esc": "Lumenier/12-amp-ESC-with-SimonK-Firmware-(N-FET)-(Discontinued)",
+    "motor": "FXC2206-11 2350kv",
+    "fc": "AbuseMark/Full-Naze32",
+    "prop": [
+    ],
+    "arm": "",
+    "battery": [
+      "Turnigy/1300mAh-3S-25C-Lipo-Pack"
+    ],
+    "osd": "Dominator V3 FPV Goggles",
+    "receiver": "FatShark/Fat-Shark-5.8GHZ-5G8RX-32ch-Race-Band-Receiver-Module-for-Dominators",
+    "flightcam": "",
+    "hqcam": "",
+    "videotx": "Lumenier/TX5G6-Mini-600mW-5.8GHz-32CH-FPV-Transmitter-with-Raceband",
+    "blackbox": "",
+    "voltagereg": ""
+  },
+  "version": 1
 }
