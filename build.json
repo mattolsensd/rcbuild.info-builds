@@ -1,16 +1,17 @@
 {
   "config": {
     "frame": "Lumenier/QAV250-Mini-FPV-Quadcopter---Carbon-Fiber-Edition",
-    "esc": "Lumenier/12-amp-ESC-with-SimonK-Firmware-(N-FET)-(Discontinued)",
+    "esc": "Favorite/LittleBee-20A",
     "motor": "FXC2206-11 2350kv",
     "fc": "AbuseMark/Full-Naze32",
     "prop": [
+      "HQProp/5x4.5-FG-BN"
     ],
     "arm": "",
     "battery": [
       "Turnigy/1300mAh-3S-25C-Lipo-Pack"
     ],
-    "osd": "Dominator V3 FPV Goggles",
+    "osd": "ReadyToFlyQuads/Micro-MinimOSD",
     "receiver": "FatShark/Fat-Shark-5.8GHZ-5G8RX-32ch-Race-Band-Receiver-Module-for-Dominators",
     "flightcam": "",
     "hqcam": "",
